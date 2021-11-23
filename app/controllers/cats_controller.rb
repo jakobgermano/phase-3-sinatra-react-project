@@ -25,3 +25,4 @@ class CatsController < ApplicationController
           cat.to_json
         end
 end
+
