@@ -1,5 +1,7 @@
 class CatsController < ApplicationController
     get "/cats" do
+        cats = Cat.all
+        cats.to_json
       end
       
         get "/cats/:id" do
