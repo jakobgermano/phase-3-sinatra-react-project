@@ -1,4 +1,5 @@
 # Phase 3 Project Guidelines
+here is the link to my repository for the frontend part of my project: https://github.com/jakobgermano/sinatra-react-frontend
 
 ## Learning Goals
 
